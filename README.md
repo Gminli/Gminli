@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Gminli
-- 👀 I’m interested in running, tennies, volleyball, restaurant hunting, pastries, social media, memes, and 0.o
-- 🌱 I’m currently learning marketing analysis, especially for sales, pricing and product. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Minli, you can call me Emily or Mili as well. 
+- 👀 I’m interested in running, tennis, volleyball, restaurant hunting, pastries, social media, memes, and 0.o potentially more.
+- 🌱 I’m enhancing my marketing analysis skills, especially for sales, pricing and product. 
 - ⚡ Fun fact: I have a cute dog called Bro 郭包肉(Named after me and my fav Chinese dish)
 
 <!---
